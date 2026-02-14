@@ -1,5 +1,5 @@
 
-# Hi, I'm [Ephrim Immanuel Njoroge]
+# Hi, I'm [Ephrim Immanuel]
 
 ## About Me
 - I'm currently learning [computerprogrammingat mahanaim educationalinstitution"].
@@ -8,12 +8,13 @@
 
 ## Skills I'm Building
 - Git and GitHub
-- [Add others, e.g., "Python", "HTML/CSS", "Machine Learning"]
+- python 
 
-## Current Projects
-- [Project name](link) — short description
+## Current projects
+.personal practice projects-small programs and web projects to sharpen my skills'
+.'gitHub learning repositories' -hands-on learning with version control
+more coming soon
 
 ## How to Reach Me
 - Email: [ephrimimmanuel0@gmail.com]
-- LinkedIn: [your LinkedIn profile 
--  
+- LinkedIn: https://github.com/ephri3
