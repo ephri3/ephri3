@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**ephri3/ephri3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm [Ephrim Immanuel Njoroge]
 
-Here are some ideas to get you started:
+## About Me
+- I'm currently learning [computerprogrammingat mahanaim educationalinstitution"].
+- I'm interested in [software engineering, e.gweb development, and data science"].
+- I'm looking to collaborate on [e.g., "beginner-friendly open source projects"].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills I'm Building
+- Git and GitHub
+- [Add others, e.g., "Python", "HTML/CSS", "Machine Learning"]
+
+## Current Projects
+- [Project name](link) — short description
+
+## How to Reach Me
+- Email: [ephrimimmanuel0@gmail.com]
+- LinkedIn: [your LinkedIn profile 
+-  
