@@ -17,4 +17,5 @@ more coming soon
 
 ## How to Reach Me
 - Email: [ephrimimmanuel0@gmail.com]
-- LinkedIn: https://github.com/ephri3
+- LinkedIn: ephrim immanuel
+- 
